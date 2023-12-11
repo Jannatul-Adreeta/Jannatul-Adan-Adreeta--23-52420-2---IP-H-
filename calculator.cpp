@@ -5,7 +5,6 @@ int main ()
 {
     while (true)
 {
-
     cout<<"------------------------"<<endl;
     cout<<"Calculator"<<endl;
     cout<<"------------------------"<<endl;
